@@ -1,0 +1,30 @@
+C:\Users\jatut\source\repos\PROJEKT FINAL\PROJEKT FINAL\bin\Debug\PROJEKT FINAL.exe.config
+C:\Users\jatut\source\repos\PROJEKT FINAL\PROJEKT FINAL\bin\Debug\PROJEKT FINAL.exe
+C:\Users\jatut\source\repos\PROJEKT FINAL\PROJEKT FINAL\bin\Debug\PROJEKT FINAL.pdb
+C:\Users\jatut\source\repos\PROJEKT FINAL\PROJEKT FINAL\obj\Debug\PROJEKT FINAL.csproj.AssemblyReference.cache
+C:\Users\jatut\source\repos\PROJEKT FINAL\PROJEKT FINAL\obj\Debug\PROJEKT_FINAL.Form1.resources
+C:\Users\jatut\source\repos\PROJEKT FINAL\PROJEKT FINAL\obj\Debug\PROJEKT_FINAL.Properties.Resources.resources
+C:\Users\jatut\source\repos\PROJEKT FINAL\PROJEKT FINAL\obj\Debug\PROJEKT FINAL.csproj.GenerateResource.cache
+C:\Users\jatut\source\repos\PROJEKT FINAL\PROJEKT FINAL\obj\Debug\PROJEKT FINAL.csproj.CoreCompileInputs.cache
+C:\Users\jatut\source\repos\PROJEKT FINAL\PROJEKT FINAL\obj\Debug\PROJEKT FINAL.exe
+C:\Users\jatut\source\repos\PROJEKT FINAL\PROJEKT FINAL\obj\Debug\PROJEKT FINAL.pdb
+C:\Users\jatut\OneDrive - University of Bedfordshire\C# Visual Studio\PROJEKT FINAL\PROJEKT FINAL\bin\Debug\PROJEKT FINAL.exe.config
+C:\Users\jatut\OneDrive - University of Bedfordshire\C# Visual Studio\PROJEKT FINAL\PROJEKT FINAL\bin\Debug\PROJEKT FINAL.exe
+C:\Users\jatut\OneDrive - University of Bedfordshire\C# Visual Studio\PROJEKT FINAL\PROJEKT FINAL\bin\Debug\PROJEKT FINAL.pdb
+C:\Users\jatut\OneDrive - University of Bedfordshire\C# Visual Studio\PROJEKT FINAL\PROJEKT FINAL\obj\Debug\PROJEKT FINAL.csproj.AssemblyReference.cache
+C:\Users\jatut\OneDrive - University of Bedfordshire\C# Visual Studio\PROJEKT FINAL\PROJEKT FINAL\obj\Debug\PROJEKT_FINAL.Form1.resources
+C:\Users\jatut\OneDrive - University of Bedfordshire\C# Visual Studio\PROJEKT FINAL\PROJEKT FINAL\obj\Debug\PROJEKT_FINAL.Properties.Resources.resources
+C:\Users\jatut\OneDrive - University of Bedfordshire\C# Visual Studio\PROJEKT FINAL\PROJEKT FINAL\obj\Debug\PROJEKT FINAL.csproj.GenerateResource.cache
+C:\Users\jatut\OneDrive - University of Bedfordshire\C# Visual Studio\PROJEKT FINAL\PROJEKT FINAL\obj\Debug\PROJEKT FINAL.csproj.CoreCompileInputs.cache
+C:\Users\jatut\OneDrive - University of Bedfordshire\C# Visual Studio\PROJEKT FINAL\PROJEKT FINAL\obj\Debug\PROJEKT FINAL.exe
+C:\Users\jatut\OneDrive - University of Bedfordshire\C# Visual Studio\PROJEKT FINAL\PROJEKT FINAL\obj\Debug\PROJEKT FINAL.pdb
+E:\Downloads\OneDrive_1_30-01-2023\PROJEKT FINAL\bin\Debug\PROJEKT FINAL.exe.config
+E:\Downloads\OneDrive_1_30-01-2023\PROJEKT FINAL\bin\Debug\PROJEKT FINAL.exe
+E:\Downloads\OneDrive_1_30-01-2023\PROJEKT FINAL\bin\Debug\PROJEKT FINAL.pdb
+E:\Downloads\OneDrive_1_30-01-2023\PROJEKT FINAL\obj\Debug\PROJEKT FINAL.csproj.AssemblyReference.cache
+E:\Downloads\OneDrive_1_30-01-2023\PROJEKT FINAL\obj\Debug\PROJEKT_FINAL.Form1.resources
+E:\Downloads\OneDrive_1_30-01-2023\PROJEKT FINAL\obj\Debug\PROJEKT_FINAL.Properties.Resources.resources
+E:\Downloads\OneDrive_1_30-01-2023\PROJEKT FINAL\obj\Debug\PROJEKT FINAL.csproj.GenerateResource.cache
+E:\Downloads\OneDrive_1_30-01-2023\PROJEKT FINAL\obj\Debug\PROJEKT FINAL.csproj.CoreCompileInputs.cache
+E:\Downloads\OneDrive_1_30-01-2023\PROJEKT FINAL\obj\Debug\PROJEKT FINAL.exe
+E:\Downloads\OneDrive_1_30-01-2023\PROJEKT FINAL\obj\Debug\PROJEKT FINAL.pdb
